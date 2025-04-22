@@ -27,7 +27,7 @@ token* comsumption estimated by tiktokenizer o200k_base.
 
 | website              | files                                                                  | tokens  | source  | create_date |
 | -------------------- | ---------------------------------------------------------------------- | ------- | ------- | ----------- |
-| [modelcontextprotocol]((https://modelcontextprotocol.io/llms.txt)) | [llms.txt](./content/modelcontextprotocol/llms.txt)                      | 1,693   | website | 20250422    |
+| [modelcontextprotocol](https://modelcontextprotocol.io/llms.txt) | [llms.txt](./content/modelcontextprotocol/llms.txt)                      | 1,693   | website | 20250422    |
 | [modelcontextprotocol](https://modelcontextprotocol.io/llms-full.txt) | [llms-full.txt](./content/modelcontextprotocol/)            | 103,827 | website | 20250422    |
 | [LangGraph Python](https://langchain-ai.github.io/langgraph/llms-full.txt)     | [llms.txt](./content/langgraph_python/llms.txt)                                                              | 9808    | website | 20250422    |
 | [LangGraph Python](https://langchain-ai.github.io/langgraph/llms-full.txt)     | [llms-full.txt](./content/langgraph_python/llms-full.txt)   | 274,937 | website | 20250422    |
